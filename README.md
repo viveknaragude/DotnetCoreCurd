@@ -1,0 +1,2 @@
+# DotnetCoreCurd
+Dotnet Core  CURD
